@@ -1,0 +1,12 @@
+{
+  "name": "mint-palette-button",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "cia.fbi.007@hotmail.com",
+  "homepage": "https://github.com/fx-mobile/fx-mui",
+  "license": "MIT",
+  "repository": "https://github.com/fx-mobile/fx-mui/tree/master/components/palette-button",
+  "dependencies": {
+  }
+}

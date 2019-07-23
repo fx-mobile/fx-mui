@@ -1,0 +1,12 @@
+{
+  "name": "mint-range",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "long.zhang@ele.me",
+  "homepage": "https://github.com/fx-mobile/fx-mui",
+  "license": "MIT",
+  "repository": "https://github.com/fx-mobile/fx-mui/tree/master/components/mint-range",
+  "dependencies": {
+  }
+}
