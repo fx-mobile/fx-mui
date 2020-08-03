@@ -1,2 +1,2 @@
 # fx-mui
-foresee移动端UI库
+移动端UI库
