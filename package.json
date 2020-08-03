@@ -1,7 +1,7 @@
 {
   "name": "fx-mui",
   "version": "1.0.0",
-  "description": "Mobile UI foresee for vue.js",
+  "description": "Mobile UI fx for vue.js",
   "keywords": [
     "component",
     "vue",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/fx-mobile/fx-mui/issues"
   },
-  "author": "foresee",
+  "author": "jeffycai",
   "license": "MIT",
   "dependencies": {
     "array-find-index": "^1.0.2",
